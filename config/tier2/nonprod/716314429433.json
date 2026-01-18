@@ -1,0 +1,12 @@
+{
+  "filters": [
+    {
+      "name": "CloudTrail",
+      "pattern": "AWSLogs/716314429433/CloudTrail/"
+    },
+    {
+      "name": "VPCFlow",
+      "pattern": "AWSLogs/716314429433/vpcflowlogs/"
+    }
+  ]
+}
