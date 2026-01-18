@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "name": "CloudTrail2",
+      "name": "CloudTrail",
       "pattern": "AWSLogs/716314429433/CloudTrail/"
     },
     {
