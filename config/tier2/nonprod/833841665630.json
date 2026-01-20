@@ -1,0 +1,12 @@
+{
+  "filters": [
+    {
+      "name": "APIGW",
+      "pattern": "APIGWLogs/"
+    },
+    {
+      "name": "CW",
+      "pattern": "CWLogs/"
+    }
+  ]
+}
