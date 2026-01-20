@@ -1,0 +1,12 @@
+{
+  "filters": [
+    {
+      "name": "alpha",
+      "pattern": "LogGroupAlpha/"
+    },
+    {
+      "name": "beta",
+      "pattern": "LogGroupBeta/"
+    }
+  ]
+}
